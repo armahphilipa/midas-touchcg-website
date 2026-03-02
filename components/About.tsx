@@ -31,7 +31,7 @@ export const About: React.FC = () => {
     },
     {
       name: "Philipa Armah",
-      role: "Lead Developer",
+      role: "Co-Founder/Lead Developer",
       bio: "An elite software architect specializing in scalable full-stack systems and intuitive UI/UX. Philipa oversees the technical precision of every digital artifact we deploy.",
       image: "https://i.pinimg.com/1200x/e7/33/76/e73376280267e28d8e55492b45457e82.jpg",
       socials: [
